@@ -6,7 +6,7 @@ print("3. Multi");
 print("4. Div");
 print("5. a power to number");
 
-choice = input("Enter choice:                             ");
+type = input("Enter     ");
 
 if choice == '1':
    print(num1, "+" ,num2, "=", addition(num1, num2));
